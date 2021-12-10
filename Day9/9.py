@@ -1,6 +1,3 @@
-from os import getsid
-
-
 filename = '/Users/andrew.meyers/Documents/andy/AdventOfCode2021/Day9/input.txt'
 
 
